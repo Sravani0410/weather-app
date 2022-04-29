@@ -1,4 +1,6 @@
 # weather-app
+![weather](https://user-images.githubusercontent.com/97447400/165923443-6cad1a25-256b-4ba4-913c-6d8a299e291a.png)
+
 
 ## About
 
