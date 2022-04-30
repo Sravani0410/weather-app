@@ -4,7 +4,9 @@
 
 ## About
 
-This is a clone of the weather website (url : https://weather-neon-seven.vercel.app/)
+This is a clone of the weather website. you can check weather city with google map
+
+You can open the index.html file and start browsing the website.
 
 The tech stack used is :
 * HTML5
@@ -12,3 +14,7 @@ The tech stack used is :
 * ES6 JavaScript
 * Bootstrap
 * API
+
+# Deploy link
+
+https://weather-neon-seven.vercel.app/
